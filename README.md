@@ -10,7 +10,6 @@ The first data that was analyzed was the theater outcomes based on launch date. 
 This data is visualized in the chart titled “Theater Outcomes Based on Launch Date” ![Getting Started](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The second data that was analyzed was the outcomes based on campaign goals.  Again, the total number of projects was divided into three groups: successful campaigns, failed campaigns and canceled campaigns.  Next, we counted the number of successful campaigns, failed campaigns and canceled campaigns based on the goal amount for those campaigns. ![Getting Started](Outcomes_vs_Goals_chart.png)
-
 This data is visualized in the chart titled “Outcomes Based on Goal”
 ![Getting Started](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
