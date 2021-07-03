@@ -6,7 +6,7 @@ The purpose of this analysis was to investigate how different campaigns fared in
 ## Analysis & Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The first data that was analyzed was the theater outcomes based on launch date.  To conduct this analysis, each campaign was divided into three groups: successful campaigns, failed campaigns and canceled campaigns.  Next, the successful campaigns, the failed campaigns and the canceled campaigns were broken down by month to show the total numbers of the respective campaigns for each month of the year (see table).  This data is visualized in the chart titled “Theater Outcomes Based on Launch Date” (see graph).
+The first data that was analyzed was the theater outcomes based on launch date.  To conduct this analysis, each campaign was divided into three groups: successful campaigns, failed campaigns and canceled campaigns.  Next, the successful campaigns, the failed campaigns and the canceled campaigns were broken down by month to show the total numbers of the respective campaigns for each month of the year (see table).  This data is visualized in the chart titled “Theater Outcomes Based on Launch Date” ![Getting Started](Outcomes_vs_Goals.png).
 ### Analysis of Outcomes Based on Goals
 The second data that was analyzed was the outcomes based on campaign goals.  Again, the total number of projects was divided into three groups: successful campaigns, failed campaigns and canceled campaigns.  Next, we counted the number of successful campaigns, failed campaigns and canceled campaigns based on the goal amount for those campaigns (see table).  This data is visualized in the chart titled “Outcomes Based on Goal” (see graph).
 ### Challenges and Difficulties Encountered
