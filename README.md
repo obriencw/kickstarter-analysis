@@ -11,7 +11,8 @@ This data is visualized in the chart titled “Theater Outcomes Based on Launch 
 ### Analysis of Outcomes Based on Goals
 The second data that was analyzed was the outcomes based on campaign goals.  Again, the total number of projects was divided into three groups: successful campaigns, failed campaigns and canceled campaigns.  Next, we counted the number of successful campaigns, failed campaigns and canceled campaigns based on the goal amount for those campaigns. ![Getting Started](Outcomes_vs_Goals_chart.png)
 
-This data is visualized in the chart titled “Outcomes Based on Goal” ![Getting Started](Outcomes_vs_Goals.png)
+This data is visualized in the chart titled “Outcomes Based on Goal”
+![Getting Started](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 One of the challenges I had was figuring out how to create a graph of just the data that I wanted; I thought that I needed to create a pivot table to create the chart that I wanted to make but I was able to get some help from one of my classmates via Slack and with their assistance I was able to create the graph that I desired.
 
